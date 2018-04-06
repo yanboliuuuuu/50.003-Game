@@ -22,3 +22,5 @@ Yuxuan: UI background images.
 Yanbo: Player spawning,movement synchching, identify local player, coin spawning , updating scores across the network
 Needs to add: fix the coin not appearing for both players properly, spikes network collision, andriod phone network, fix the random location not working in the it should as written in the code.
 
+
+*The issue of the game play not fitting to the phone screen size already fixed right after the meeting.
