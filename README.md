@@ -24,4 +24,6 @@ Needs to add: fix the coin not appearing for both players properly, spikes netwo
 
 
 *Due the number of files and some duplication in scipt name, the networking in another repo:https://github.com/yanboliuuuuu/50.003-GameNetwork.git for clearer presentation.
+
+
 *The issue of the game play not fitting to the phone screen size already fixed right after the meeting.
