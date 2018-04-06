@@ -23,4 +23,5 @@ Yanbo: Player spawning,movement synchching, identify local player, coin spawning
 Needs to add: fix the coin not appearing for both players properly, spikes network collision, andriod phone network, fix the random location not working in the it should as written in the code.
 
 
+*Due the number of files and some duplication in scipt name, the networking in another repo:https://github.com/yanboliuuuuu/50.003-GameNetwork.git for clearer presentation.
 *The issue of the game play not fitting to the phone screen size already fixed right after the meeting.
