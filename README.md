@@ -2,8 +2,6 @@
 
 Cohort 2 Grp5
 
-Here is our star game for the single player mode that we have already successfully built on the android phone. 
-
 Game Play
 Two players compete to collect the star with button controllers. 
 Buttons control movments are : left, right, dash and jump. Double jump is not allowed due to the size of the android phone is relatively small and to make the game more competitive as players will not collect the stars as easily.
